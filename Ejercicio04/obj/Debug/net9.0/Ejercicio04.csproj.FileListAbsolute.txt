@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\bin\Debug\net9.0\Ejercicio04.exe
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\bin\Debug\net9.0\Ejercicio04.deps.json
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\bin\Debug\net9.0\Ejercicio04.runtimeconfig.json
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\bin\Debug\net9.0\Ejercicio04.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\bin\Debug\net9.0\Ejercicio04.pdb
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.AssemblyInfo.cs
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\refint\Ejercicio04.dll
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.pdb
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\Ejercicio04.genruntimeconfig.cache
+C:\Users\USER\Desktop\Felipe Castillo\3er Semestre\Estructura de datos\Proyectos\semana05\Ejercicio04\obj\Debug\net9.0\ref\Ejercicio04.dll
